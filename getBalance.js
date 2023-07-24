@@ -1,4 +1,4 @@
-
+// run the script using "npx hardhat run scripts/getBalance.js --network mumbai"
 const hre = require("hardhat");
 const tokenContractJSON = require("../artifacts/contracts/MetaToken.sol/MetaToken.json");
 
